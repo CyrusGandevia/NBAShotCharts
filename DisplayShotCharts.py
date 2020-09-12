@@ -122,9 +122,9 @@ def display_shot_chart (data, title):
 
 
 if __name__ == "__main__":
-    nba_player = "Kobe Bryant"  # ex. "Stephen Curry"
-    season_year = "2015-16"  # ex. 2015-16
-    season_type = "Regular Season"  # Choose between "Preseason" "Regular Season", "Playoffs"
+    nba_player = "[PLAYER NAME]"  # ex. "Stephen Curry"
+    season_year = "[SEASON YEAR]"  # ex. 2015-16
+    season_type = "[SEASON TYPE]"  # Choose between "Preseason" "Regular Season", "Playoffs"
 
     title = nba_player + " FGA\n" + season_year + " " + season_type
 
