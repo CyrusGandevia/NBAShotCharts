@@ -67,3 +67,7 @@ Once you meet the following requirements, just download the script and in the "_
 TODO
 ------------
 I would eventually like to find a way to add a player's headshot in these shot charts, to help better put a name to the face when you're looking at these charts. The current challenge is that accessing many of the player's current and past year headshots are restricted on sites such as NBA.com and ESPN.com
+
+Credits
+------------
+Big shoutout to Savvas Tjortjoglou for inspiration on how to draw the court-shaped plot!
